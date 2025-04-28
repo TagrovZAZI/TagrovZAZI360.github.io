@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.11" start="node2" apprev="18043">
+  <panorama id="node1" hideabout="1">
+    <input width="3311" levelbiashidpi="1.000" levelingroll="0" overlap="1" height="3311" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="3311" height="3311" predecode="0" preload="0"/>
+      <level width="1655" height="1655" predecode="0" preload="0"/>
+      <level width="827" height="827" predecode="0" preload="0"/>
+      <level width="413" height="413" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-44.34" fovmode="0">
+      <start pan="0" fov="89" tilt="0" projection="4"/>
+      <flyin pan="67.21" fov="170" tilt="8.23" projection="9"/>
+      <min pan="0" fov="55.86" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" scaletofit="1" fov="100.68" tilt="90"/>
+    </view>
+    <userdata copyright="" source="" info="" tags="на выход" latitude="62.02623982" customnodeid="" title="" author="" nodeid="node1" datetime="" comment="" heading="-44.34" description="" longitude="129.70871033">
+      <mapcoords x="1.38702" y_floorplan_percent="25.1852" x_floorplan_percent="74.8148" y="-0.373535" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" width="180" height="20" enabled="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundalpha="1" border="1" wordwrap="1" borderalpha="1"/>
+      <polystyle handcursor="1" mode="1" backgroundcolor="0x0eb7ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <polyhotspot id="Poly01" url="{node3}" title="" target="4.2/3.5/93.1" description="">
+        <polystring>-89.96/24.14|-135.64/31.69|-136.05/28.72|-139.93/28.89|-140.34/31.55|-175.17/24.79|-174.23/21.95|-176.98/20.67|-177.99/23.41|-180.65/22.58|-180.81/-9.62|-180.49/-27.86|-177.17/-26.62|-172.3/-28.36|-174.56/-26.72|-175.14/-10.04|-150.99/-17.31|-150.34/-33.73|-115.95/-34.04|-99.57/-52.12|-89.97/-48.6</polystring>
+      </polyhotspot>
+      <hotspot id="Point06" use3D="1" distance3D="1386.67" url="" title="Tagrov360" customimage="media/tagrov360.png" pan="-47.7" target="" skinid="ht_info" description="Я оказываю услуги по качественной профессиональной интерьерной фотосъемке квартир для объявлений о продаже и аренде.&#xa;1) Виртуальный 3д тур по жилой недвижимости (рум-тур) делает возможным удаленный показ квартир и загородных домов для риэлторов, а так же используются дизайнерами и компаниями занимающимися ремонтами квартир для презентации своей проделанной работы на объекте.&#xa;2) При заказе виртуального тура по квартире я предоставляю свой хостинг для хранения рум-тура по недвижимости бесплатно. &#xa;3) Стоимость виртуального 3D тура по недвижимости зависит от площади и количества комнат в квартире.&#xa;4) В стоимость создания виртуального тура по квартире входит глубокая ретушь и правильная цветокоррекция всех панорам проекта в каждом помещении. Панорамы снимаются на высококлассное профессиональное фото оборудование, что гарантирует высокое качество виртуального тура по Вашей квартире.&#xa;5) Некоторые площадки (такие как ЦИАН и Авито) не дают вставить в объявление непосредственно ссылку на виртуальный тур, но позволяют вставлять видео с YouTube с виртуального тура, которое я тоже изготавливаю. Ссылка на полный виртуальный тур по недвижимости вставляется в описании видео, так же указывается в объявлении, что есть 3д тур и по запросу высылается ссылкой.&#xa;Контактные данные: &#xa;тел (ватсапп): +7 (999) 794-34-41 Александр &#xa;инстаграмм: TagrovZAZI&#xa;Сайт: https://tagrov360.rf.gd/" customimagewidth="740" fov="29.88" tilt="-89.44" customimageheight="740"/>
+      <hotspot id="Point04" use3D="1" distance3D="331.472" url="tel:+7 (999) 793-34-41" title="позвонить владельцу недвижимости" customimage="media/icons8-громкость-звонка-96.png" pan="-48.12" target="_blank" skinid="ht_url" description="" customimagewidth="58" fov="10" tilt="-68.01" customimageheight="58"/>
+      <hotspot id="Point03" use3D="1" distance3D="325.756" url="Тут размещается любая информация о недижимости (наличие вайфая, стиральной машины и тд.)" title="Информация" customimage="media/icons8-добавить-контакт-в-компанию-96.png" pan="-135.56" target="_top" skinid="ht_info" description="Тут размещается любая информация о недвижимости (наличие вайфая, стиральной машины и тд.)" customimagewidth="57" fov="10" tilt="-68.64" customimageheight="57"/>
+      <hotspot id="Point01" use3D="1" distance3D="306.387" url="https://www.google.com/maps/@62.0263057,129.7103521,3a,75y,239.84h,95.53t/data=!3m6!1e1!3m4!1sFbdzUKiRGox2ekCK8VY85Q!2e0!7i16384!8i8192?hl=ru" title="Расположение на карте" customimage="media/icons8-путеводитель-96.png" pan="-228.95" target="_blank" skinid="ht_url" description="" customimagewidth="65" fov="12.11" tilt="-68.57" customimageheight="65"/>
+      <hotspot id="Point02" use3D="1" distance3D="337.187" url="https://tagrov360.rf.gd/" title="Ссылка на сайт недвижимости" customimage="media/icons8-интернет-96.png" pan="-321.65" target="_blank" skinid="ht_url" description="" customimagewidth="59" fov="10" tilt="-68.79" customimageheight="59"/>
+    </hotspots>
+    <media/>
+    <transition type="irisround" zoomafteroutfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" zoomfov="20" enabled="1" zoomoutpause="1" blendtime="1" softedge="0" blendcolor="0x000000" zoomin="0"/>
+    <autorotate nodedelay="0.00" noderandom="1" returntohorizon="1.000" enabled="1" useanimation="0" delay="3.00" speed="0.400" nodefilter="" startloaded="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertcontrol="1" speedwheel="1" simulatemass="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input width="3445" levelbiashidpi="1.000" levelingroll="0" overlap="1" height="3445" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="3445" height="3445" predecode="0" preload="0"/>
+      <level width="1722" height="1722" predecode="0" preload="0"/>
+      <level width="861" height="861" predecode="0" preload="0"/>
+      <level width="430" height="430" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-44.34" fovmode="0">
+      <start pan="113.06" fov="89" tilt="2.57" projection="4"/>
+      <flyin pan="-12.45" fov="155.78" tilt="-90" projection="9"/>
+      <min pan="0" fov="55.86" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" scaletofit="1" fov="100.68" tilt="90"/>
+    </view>
+    <userdata copyright="" source="" info="" tags="на выход" latitude="62.02622514" customnodeid="" title="" author="" nodeid="node2" datetime="" comment="" heading="-44.34" description="" longitude="129.70883574">
+      <mapcoords x="0.369415" y_floorplan_percent="66.3889" x_floorplan_percent="19.9259" y="-0.98465" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" width="180" height="20" enabled="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundalpha="1" border="1" wordwrap="1" borderalpha="1"/>
+      <polystyle handcursor="1" mode="1" backgroundcolor="0x0eb7ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <polyhotspot id="Poly01" url="{node4}" title="" target="125.4/-5.2/93.1" description="">
+        <polystring>-185.11/14.85|-185.16/-39.58|-181.93/-40.37|-181.89/-40.33|-162.79/-43.03|-162.76/-43.1|-158.85/-43.29|-158.71/-43.09|-158.69/16.8</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="{node6}" title="" target="167.8/-0.7/93.1" description="">
+        <polystring>-41.52/12.41|-86.33/12.98|-86.24/-37.67|-44.65/-37.5|-43.59/-35.9|-41.78/-34.83</polystring>
+      </polyhotspot>
+      <hotspot id="Point06" use3D="1" distance3D="1406.85" url="" title="Tagrov360" customimage="media/tagrov360.png" pan="-184.18" target="" skinid="ht_info" description="Я оказываю услуги по качественной профессиональной интерьерной фотосъемке квартир для объявлений о продаже и аренде.&#xa;1) Виртуальный 3д тур по жилой недвижимости (рум-тур) делает возможным удаленный показ квартир и загородных домов для риэлторов, а так же используются дизайнерами и компаниями занимающимися ремонтами квартир для презентации своей проделанной работы на объекте.&#xa;2) При заказе виртуального тура по квартире я предоставляю свой хостинг для хранения рум-тура по недвижимости бесплатно. &#xa;3) Стоимость виртуального 3D тура по недвижимости - от 5 000 рублей в зависимости от площади и количества комнат в квартире.&#xa;4) В стоимость создания виртуального тура по квартире входит глубокая ретушь и правильная цветокоррекция всех панорам проекта в каждом помещении. Панорамы снимаются на высококлассное профессиональное фото оборудование, что гарантирует высокое качество виртуального тура по Вашей квартире.&#xa;5) Некоторые площадки (такие как ЦИАН и Авито) не дают вставить в объявление непосредственно ссылку на виртуальный тур, но позволяют вставлять видео с YouTube с виртуального тура, которое я тоже изготавливаю. Ссылка на полный виртуальный тур по недвижимости вставляется в описании видео, так же указывается в объявлении, что есть 3д тур и по запросу высылается ссылкой.&#xa;Контактные данные: &#xa;тел (ватсапп): +7 (999) 794-34-41 Александр &#xa;инстаграмм: TagrovZAZI" customimagewidth="740" fov="29.47" tilt="-87.56" customimageheight="740"/>
+      <hotspot id="Point04" use3D="1" distance3D="331.472" url="tel:+7 (999) 793-34-41" title="позвонить владельцу недвижимости" customimage="media/icons8-громкость-звонка-96.png" pan="-184" target="_blank" skinid="ht_url" description="" customimagewidth="58" fov="10" tilt="-65.71" customimageheight="58"/>
+      <hotspot id="Point03" use3D="1" distance3D="325.756" url="Тут размещается любая информация о недижимости (наличие вайфая, стиральной машины и тд.)" title="Информация" customimage="media/icons8-добавить-контакт-в-компанию-96.png" pan="-267.62" target="_top" skinid="ht_info" description="Тут размещается любая информация о недвижимости (наличие вайфая, стиральной машины и тд.)" customimagewidth="57" fov="10" tilt="-68.15" customimageheight="57"/>
+      <hotspot id="Point01" use3D="1" distance3D="306.387" url="https://www.google.com/maps/@62.0263057,129.7103521,3a,75y,239.84h,95.53t/data=!3m6!1e1!3m4!1sFbdzUKiRGox2ekCK8VY85Q!2e0!7i16384!8i8192?hl=ru" title="Расположение на карте" customimage="media/icons8-путеводитель-96.png" pan="-359.93" target="_blank" skinid="ht_url" description="" customimagewidth="65" fov="12.11" tilt="-70.06" customimageheight="65"/>
+      <hotspot id="Point02" use3D="1" distance3D="337.187" url="https://tagrov360.rf.gd/" title="Ссылка на сайт недвижимости" customimage="media/icons8-интернет-96.png" pan="-95.64" target="_blank" skinid="ht_url" description="" customimagewidth="59" fov="10" tilt="-67.68" customimageheight="59"/>
+    </hotspots>
+    <media/>
+    <transition type="irisround" zoomafteroutfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" zoomfov="20" enabled="1" zoomoutpause="1" blendtime="1" softedge="0" blendcolor="0x000000" zoomin="0"/>
+    <autorotate nodedelay="0.00" noderandom="1" returntohorizon="1.000" enabled="1" useanimation="0" delay="3.00" speed="0.400" nodefilter="" startloaded="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertcontrol="1" speedwheel="1" simulatemass="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input width="3327" levelbiashidpi="1.000" levelingroll="0" overlap="1" height="3327" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="3327" height="3327" predecode="0" preload="0"/>
+      <level width="1663" height="1663" predecode="0" preload="0"/>
+      <level width="831" height="831" predecode="0" preload="0"/>
+      <level width="415" height="415" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-44.34" fovmode="0">
+      <start pan="0" fov="89" tilt="0" projection="4"/>
+      <flyin pan="158.37" fov="170" tilt="13.78" projection="9"/>
+      <min pan="0" fov="55.86" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" scaletofit="1" fov="100.68" tilt="90"/>
+    </view>
+    <userdata copyright="" source="" info="" tags="на выход" latitude="62.02625098" customnodeid="" title="" author="" nodeid="node3" datetime="" comment="" heading="-44.34" description="" longitude="129.70872524">
+      <mapcoords x="1.4447" y_floorplan_percent="42.1296" x_floorplan_percent="77.9259" y="-0.624847" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" width="180" height="20" enabled="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundalpha="1" border="1" wordwrap="1" borderalpha="1"/>
+      <polystyle handcursor="1" mode="1" backgroundcolor="0x0eb7ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <polyhotspot id="Poly01" url="{node1}" title="" target="38.6/1.8/93.1" description="">
+        <polystring>-198.36/-38.95|-169.98/-40.88|-170.06/-35.83|-177.76/-35.76|-176.52/-22.33|-150.22/-20.6|-150.13/-3.66|-131.64/-3.11|-131.65/21.2|-132.04/21|-132.46/21|-132.84/21.25|-133.25/21.85|-156.07/26.73|-156.44/26.74|-156.7/26.36|-157.2/26.02|-157.83/25.84|-158.48/25.97|-159.1/26.39|-159.31/27.12|-195.07/26.36|-195.76/22.6|-197/15.97|-198.29/9.58</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="{node5}" title="" target="-178.3/-1.4/93.1" description="">
+        <polystring>-39.1/26.51|-12.15/32.97|-12.6/-40.14|-39.05/-32.49</polystring>
+      </polyhotspot>
+      <hotspot id="Point06" use3D="1" distance3D="1292.47" url="" title="Tagrov360" customimage="media/tagrov360.png" pan="-356.2" target="" skinid="ht_info" description="Я оказываю услуги по качественной профессиональной интерьерной фотосъемке квартир для объявлений о продаже  и аренде.Я оказываю услуги по качественной профессиональной интерьерной фотосъемке квартир для объявлений о продаже  и аренде.&#xa;1) Виртуальный 3д тур по жилой недвижимости (рум-тур) делает возможным удаленный показ квартир и загородных домов для риэлторов, а так же используются дизайнерами и компаниями занимающимися ремонтами квартир для презентации своей проделанной работы на объекте.&#xa;2) При заказе виртуального тура по квартире я предоставляю свой хостинг для хранения рум-тура по недвижимости бесплатно. &#xa;3) Стоимость виртуального 3D тура по недвижимости - от 5 000 рублей в зависимости от площади и количества комнат в квартире.&#xa;4) В стоимость создания виртуального тура по квартире входит глубокая ретушь и правильная цветокоррекция всех панорам проекта в каждом помещении. Панорамы снимаются на высококлассное профессиональное фото оборудование, что гарантирует высокое качество виртуального тура по Вашей квартире.&#xa;5) Некоторые площадки (такие как ЦИАН и Авито) не дают вставить в объявление непосредственно ссылку на виртуальный тур, но позволяют вставлять видео с YouTube с виртуального тура, которое я тоже изготавливаю. Ссылка на полный виртуальный тур по недвижимости вставляется в описании видео, так же указывается в объявлении что есть 3д тур и по запросу высылается ссылкой.&#xa;Контактные данные: &#xa;тел (ватсапп): +7 (999) 794-34-41 Александр &#xa;инстаграмм: TagrovZAZIЯ оказываю услуги по качественной профессиональной интерьерной фотосъемке квартир для объявлений о продаже и аренде.&#xa;1) Виртуальный 3д тур по жилой недвижимости (рум-тур) делает возможным удаленный показ квартир и загородных домов для риэлторов, а так же используются дизайнерами и компаниями занимающимися ремонтами квартир для презентации своей проделанной работы на объекте.&#xa;2) При заказе виртуального тура по квартире я предоставляю свой хостинг для хранения рум-тура по недвижимости бесплатно. &#xa;3) Стоимость виртуального 3D тура по недвижимости - от 5 000 рублей в зависимости от площади и количества комнат в квартире.&#xa;4) В стоимость создания виртуального тура по квартире входит глубокая ретушь и правильная цветокоррекция всех панорам проекта в каждом помещении. Панорамы снимаются на высококлассное профессиональное фото оборудование, что гарантирует высокое качество виртуального тура по Вашей квартире.&#xa;5) Некоторые площадки (такие как ЦИАН и Авито) не дают вставить в объявление непосредственно ссылку на виртуальный тур, но позволяют вставлять видео с YouTube с виртуального тура, которое я тоже изготавливаю. Ссылка на полный виртуальный тур по недвижимости вставляется в описании видео, так же указывается в объявлении, что есть 3д тур и по запросу высылается ссылкой.&#xa;Контактные данные: &#xa;тел (ватсапп): +7 (999) 794-34-41 Александр &#xa;инстаграмм: TagrovZAZI&#xa;1) Виртуальный 3д тур по жилой недвижимости (рум-тур) делает возможным удаленный показ квартир и загородных домов для риэлторов, а так же используются дизайнерами и компаниями занимающимися ремонтами квартир для презентации своей проделанной работы на объекте.&#xa;2) При заказе виртуального тура по квартире я предоставляю свой хостинг для хранения рум-тура по недвижимости бесплатно. &#xa;3) Стоимость виртуального 3D тура по недвижимости - от 5 000 рублей в зависимости от площади и количества комнат в квартире.&#xa;4) В стоимость создания виртуального тура по квартире входит глубокая ретушь и правильная цветокоррекция всех панорам проекта в каждом помещении. Панорамы снимаются на высококлассное профессиональное фото оборудование, что гарантирует высокое качество виртуального тура по Вашей квартире.&#xa;5) Некоторые площадки (такие как ЦИАН и Авито) не дают вставить в объявление непосредственно ссылку на виртуальный тур, но позволяют вставлять видео с YouTube с виртуального тура, которое я тоже изготавливаю. Ссылка на полный виртуальный тур по недвижимости вставляется в описании видео, так же указывается в объявлении что есть 3д тур и по запросу высылается ссылкой.&#xa;Контактные данные: &#xa;тел (ватсапп): +7 (999) 794-34-41 Александр &#xa;инстаграмм: TagrovZAZI" customimagewidth="740" fov="31.95" tilt="-87.89" customimageheight="740"/>
+      <hotspot id="Point04" use3D="1" distance3D="331.472" url="tel:+7 (999) 793-34-41" title="позвонить владельцу недвижимости" customimage="media/icons8-громкость-звонка-96.png" pan="-354.44" target="_blank" skinid="ht_url" description="" customimagewidth="58" fov="10" tilt="-63.79" customimageheight="58"/>
+      <hotspot id="Point03" use3D="1" distance3D="325.756" url="Тут размещается любая информация о недижимости (наличие вайфая, стиральной машины и тд.)" title="Информация" customimage="media/icons8-добавить-контакт-в-компанию-96.png" pan="-84.45" target="_top" skinid="ht_info" description="Тут размещается любая информация о недвижимости (наличие вайфая, стиральной машины и тд.)" customimagewidth="57" fov="10" tilt="-66.33" customimageheight="57"/>
+      <hotspot id="Point01" use3D="1" distance3D="306.387" url="https://www.google.com/maps/@62.0263057,129.7103521,3a,75y,239.84h,95.53t/data=!3m6!1e1!3m4!1sFbdzUKiRGox2ekCK8VY85Q!2e0!7i16384!8i8192?hl=ru" title="Расположение на карте" customimage="media/icons8-путеводитель-96.png" pan="-172.93" target="_blank" skinid="ht_url" description="" customimagewidth="65" fov="12.11" tilt="-68.07" customimageheight="65"/>
+      <hotspot id="Point02" use3D="1" distance3D="337.187" url="https://tagrov360.rf.gd/" title="Ссылка на сайт недвижимости" customimage="media/icons8-интернет-96.png" pan="-268.93" target="_blank" skinid="ht_url" description="" customimagewidth="59" fov="10" tilt="-67.05" customimageheight="59"/>
+    </hotspots>
+    <media/>
+    <transition type="irisround" zoomafteroutfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" zoomfov="20" enabled="1" zoomoutpause="1" blendtime="1" softedge="0" blendcolor="0x000000" zoomin="0"/>
+    <autorotate nodedelay="0.00" noderandom="1" returntohorizon="1.000" enabled="1" useanimation="0" delay="3.00" speed="0.400" nodefilter="" startloaded="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertcontrol="1" speedwheel="1" simulatemass="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input width="3312" levelbiashidpi="1.000" levelingroll="0" overlap="1" height="3312" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="3312" height="3312" predecode="0" preload="0"/>
+      <level width="1656" height="1656" predecode="0" preload="0"/>
+      <level width="828" height="828" predecode="0" preload="0"/>
+      <level width="414" height="414" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-44.34" fovmode="0">
+      <start pan="43.2" fov="89" tilt="-3.53" projection="4"/>
+      <flyin pan="-37.01" fov="170" tilt="7.55" projection="9"/>
+      <min pan="0" fov="55.86" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" scaletofit="1" fov="100.68" tilt="90"/>
+    </view>
+    <userdata copyright="" source="" info="" tags="на выход" latitude="62.02624439" customnodeid="" title="" author="" nodeid="node4" datetime="" comment="" heading="-44.34" description="" longitude="129.70880550">
+      <mapcoords x="0.832214" y_floorplan_percent="71.1111" x_floorplan_percent="44.8889" y="-1.05469" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" width="180" height="20" enabled="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundalpha="1" border="1" wordwrap="1" borderalpha="1"/>
+      <polystyle handcursor="1" mode="1" backgroundcolor="0x0eb7ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <polyhotspot id="Poly01" url="{node5}" title="" target="-56.5/1.2/93.1" description="">
+        <polystring>-204.94/18.74|-238.32/19.53|-238.37/-43.57|-237.94/-43.59|-237.63/-43.72|-237.66/-45.03|-237.8/-45.41|-205.56/-44.54|-205.77/-44.23|-205.72/-42.98|-205.48/-42.8|-205.08/-42.68</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="{node7}" title="" target="93.6/2.1/93.1" description="">
+        <polystring>-80.63/14.82|-102.25/20.95|-103.15/-46.72|-102.34/-47.4|-101.85/-47.96|-101.26/-49.05|-101.1/-49.89|-100.96/-49.91|-100.52/-46.6|-100.27/-46.47|-99.97/-46.56|-99.94/-46.84|-100.09/-46.95|-100.56/-51.04|-83.08/-43.19|-82.95/-43.19|-80.87/-41.9|-80.73/-20.96|-80.64/-6.53</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="{node2}" title="" target="-10.4/-3.8/86.1" description="">
+        <polystring>-32.77/14.91|-59.24/14.64|-59.27/-41.97|-55.89/-42.35|-55.83/-42.32|-35.88/-42.38|-35.81/-42.41|-32.65/-42.15</polystring>
+      </polyhotspot>
+      <hotspot id="Point01" use3D="1" distance3D="306.387" url="https://www.google.com/maps/@62.0263057,129.7103521,3a,75y,239.84h,95.53t/data=!3m6!1e1!3m4!1sFbdzUKiRGox2ekCK8VY85Q!2e0!7i16384!8i8192?hl=ru" title="Расположение на карте" customimage="media/icons8-путеводитель-96.png" pan="-130.93" target="_blank" skinid="ht_url" description="" customimagewidth="65" fov="12.11" tilt="-70.3" customimageheight="65"/>
+      <hotspot id="Point02" use3D="1" distance3D="337.187" url="https://tagrov360.rf.gd/" title="Ссылка на сайт недвижимости" customimage="media/icons8-интернет-96.png" pan="-226.3" target="_blank" skinid="ht_url" description="" customimagewidth="59" fov="10" tilt="-68.27" customimageheight="59"/>
+      <hotspot id="Point03" use3D="1" distance3D="325.756" url="Тут размещается любая информация о недижимости (наличие вайфая, стиральной машины и тд.)" title="Информация" customimage="media/icons8-добавить-контакт-в-компанию-96.png" pan="-42.61" target="_top" skinid="ht_info" description="Тут размещается любая информация о недвижимости (наличие вайфая, стиральной машины и тд.)" customimagewidth="57" fov="10" tilt="-68.35" customimageheight="57"/>
+      <hotspot id="Point04" use3D="1" distance3D="331.472" url="tel:+7 (999) 793-34-41" title="позвонить владельцу недвижимости" customimage="media/icons8-громкость-звонка-96.png" pan="-308.56" target="_blank" skinid="ht_url" description="" customimagewidth="58" fov="10" tilt="-67.75" customimageheight="58"/>
+      <hotspot id="Point06" use3D="1" distance3D="1471.4" url="" title="Tagrov360" customimage="media/tagrov360.png" pan="-312.2" target="" skinid="ht_info" description="Я оказываю услуги по качественной профессиональной интерьерной фотосъемке квартир для объявлений о продаже и аренде.&#xa;1) Виртуальный 3д тур по жилой недвижимости (рум-тур) делает возможным удаленный показ квартир и загородных домов для риэлторов, а так же используются дизайнерами и компаниями занимающимися ремонтами квартир для презентации своей проделанной работы на объекте.&#xa;2) При заказе виртуального тура по квартире я предоставляю свой хостинг для хранения рум-тура по недвижимости бесплатно. &#xa;3) Стоимость виртуального 3D тура по недвижимости - от 5 000 рублей в зависимости от площади и количества комнат в квартире.&#xa;4) В стоимость создания виртуального тура по квартире входит глубокая ретушь и правильная цветокоррекция всех панорам проекта в каждом помещении. Панорамы снимаются на высококлассное профессиональное фото оборудование, что гарантирует высокое качество виртуального тура по Вашей квартире.&#xa;5) Некоторые площадки (такие как ЦИАН и Авито) не дают вставить в объявление непосредственно ссылку на виртуальный тур, но позволяют вставлять видео с YouTube с виртуального тура, которое я тоже изготавливаю. Ссылка на полный виртуальный тур по недвижимости вставляется в описании видео, так же указывается в объявлении, что есть 3д тур и по запросу высылается ссылкой.&#xa;Контактные данные: &#xa;тел (ватсапп): +7 (999) 794-34-41 Александр &#xa;инстаграмм: TagrovZAZI" customimagewidth="740" fov="28.23" tilt="-88.6" customimageheight="740"/>
+    </hotspots>
+    <media/>
+    <transition type="irisround" zoomafteroutfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" zoomfov="20" enabled="1" zoomoutpause="1" blendtime="1" softedge="0" blendcolor="0x000000" zoomin="0"/>
+    <autorotate nodedelay="0.00" noderandom="1" returntohorizon="1.000" enabled="1" useanimation="0" delay="3.00" speed="0.400" nodefilter="" startloaded="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertcontrol="1" speedwheel="1" simulatemass="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input width="3705" levelbiashidpi="1.000" levelingroll="0" overlap="1" height="3705" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="3705" height="3705" predecode="0" preload="0"/>
+      <level width="1852" height="1852" predecode="0" preload="0"/>
+      <level width="926" height="926" predecode="0" preload="0"/>
+      <level width="463" height="463" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-44.34" fovmode="0">
+      <start pan="0" fov="89" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="55.86" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" scaletofit="1" fov="100.68" tilt="90"/>
+    </view>
+    <userdata copyright="" source="" info="" tags="на выход" latitude="62.02625525" customnodeid="" title="" author="" nodeid="node5" datetime="" comment="" heading="-44.34" description="" longitude="129.70876584">
+      <mapcoords x="1.24008" y_floorplan_percent="63.8889" x_floorplan_percent="66.8889" y="-0.947571" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" width="180" height="20" enabled="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundalpha="1" border="1" wordwrap="1" borderalpha="1"/>
+      <polystyle handcursor="1" mode="1" backgroundcolor="0x0eb7ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <polyhotspot id="Poly01" url="{node8}" title="" target="10.1/-1.7/93.1" description="">
+        <polystring>-81.73/36.82|-129.63/28.84|-129.09/-56.82|-81.46/-64.02</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" url="{node4}" title="" target="-46.4/-6.3/93.1" description="">
+        <polystring>-214.7/17.88|-240.8/25.71|-241.41/-54.11|-215.67/-44.12|-215.62/-42.74|-214.95/-42.28</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly03" url="{node3}" title="" target="169.8/-2.0/93.1" description="">
+        <polystring>-24.65/-39.15|-341.24/-41.12|-341.37/-40.89|-341.35/-22.54|-334.73/-21.79|-334.85/38.51|-24.86/34.37|-24.84/32.65|-22.9/30.94|-22.96/20.7|-23.18/20.73|-23.18/19.85|-22.92/19.7|-22.91/-18.73|-23.11/-18.75|-23.14/-20.76|-22.95/-20.53|-22.89/-36.85|-24.58/-38.44</polystring>
+      </polyhotspot>
+      <hotspot id="Point01" use3D="1" distance3D="842.381" url="" title="Tagrov360" customimage="media/tagrov360.png" pan="-265.38" target="" skinid="ht_info" description="Я оказываю услуги по качественной профессиональной интерьерной фотосъемке квартир для объявлений о продаже и аренде.&#xa;1) Виртуальный 3д тур по жилой недвижимости (рум-тур) делает возможным удаленный показ квартир и загородных домов для риэлторов, а так же используются дизайнерами и компаниями занимающимися ремонтами квартир для презентации своей проделанной работы на объекте.&#xa;2) При заказе виртуального тура по квартире я предоставляю свой хостинг для хранения рум-тура по недвижимости бесплатно. &#xa;3) Стоимость виртуального 3D тура по недвижимости - от 5 000 рублей в зависимости от площади и количества комнат в квартире.&#xa;4) В стоимость создания виртуального тура по квартире входит глубокая ретушь и правильная цветокоррекция всех панорам проекта в каждом помещении. Панорамы снимаются на высококлассное профессиональное фото оборудование, что гарантирует высокое качество виртуального тура по Вашей квартире.&#xa;5) Некоторые площадки (такие как ЦИАН и Авито) не дают вставить в объявление непосредственно ссылку на виртуальный тур, но позволяют вставлять видео с YouTube с виртуального тура, которое я тоже изготавливаю. Ссылка на полный виртуальный тур по недвижимости вставляется в описании видео, так же указывается в объявлении, что есть 3д тур и по запросу высылается ссылкой.&#xa;Контактные данные: &#xa;тел (ватсапп): +7 (999) 794-34-41 Александр &#xa;инстаграмм: TagrovZAZI" customimagewidth="538" fov="35.42" tilt="-86.64" customimageheight="538"/>
+      <hotspot id="Point04" use3D="1" distance3D="331.472" url="tel:+7 (999) 793-34-41" title="позвонить владельцу недвижимости" customimage="media/icons8-громкость-звонка-96.png" pan="-265.59" target="_blank" skinid="ht_url" description="" customimagewidth="58" fov="10" tilt="-61.43" customimageheight="58"/>
+      <hotspot id="Point03" use3D="1" distance3D="325.756" url="Тут размещается любая информация о недижимости (наличие вайфая, стиральной машины и тд.)" title="Информация" customimage="media/icons8-добавить-контакт-в-компанию-96.png" pan="-356.06" target="_top" skinid="ht_info" description="Тут размещается любая информация о недвижимости (наличие вайфая, стиральной машины и тд.)" customimagewidth="57" fov="10" tilt="-65.33" customimageheight="57"/>
+      <hotspot id="Point01" use3D="1" distance3D="306.387" url="https://www.google.com/maps/@62.0263057,129.7103521,3a,75y,239.84h,95.53t/data=!3m6!1e1!3m4!1sFbdzUKiRGox2ekCK8VY85Q!2e0!7i16384!8i8192?hl=ru" title="Расположение на карте" customimage="media/icons8-путеводитель-96.png" pan="-88.23" target="_blank" skinid="ht_url" description="" customimagewidth="65" fov="12.11" tilt="-68.41" customimageheight="65"/>
+      <hotspot id="Point02" use3D="1" distance3D="337.187" url="https://tagrov360.rf.gd/" title="Ссылка на сайт недвижимости" customimage="media/icons8-интернет-96.png" pan="-183.54" target="_blank" skinid="ht_url" description="" customimagewidth="59" fov="10" tilt="-65.17" customimageheight="59"/>
+    </hotspots>
+    <media/>
+    <transition type="irisround" zoomafteroutfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" zoomfov="20" enabled="1" zoomoutpause="1" blendtime="1" softedge="0" blendcolor="0x000000" zoomin="0"/>
+    <autorotate nodedelay="0.00" noderandom="1" returntohorizon="1.000" enabled="1" useanimation="0" delay="3.00" speed="0.400" nodefilter="" startloaded="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertcontrol="1" speedwheel="1" simulatemass="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input width="3310" levelbiashidpi="1.000" levelingroll="0" overlap="1" height="3310" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="3310" height="3310" predecode="0" preload="0"/>
+      <level width="1655" height="1655" predecode="0" preload="0"/>
+      <level width="827" height="827" predecode="0" preload="0"/>
+      <level width="413" height="413" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-44.34" fovmode="0">
+      <start pan="0" fov="89" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="55.86" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" scaletofit="1" fov="100.68" tilt="90"/>
+    </view>
+    <userdata copyright="" source="" info="" tags="на выход" latitude="62.02620976" customnodeid="" title="" author="" nodeid="node6" datetime="" comment="" heading="-44.34" description="" longitude="129.70880507">
+      <mapcoords x="0.355682" y_floorplan_percent="38.6111" x_floorplan_percent="19.1852" y="-0.572662" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" width="180" height="20" enabled="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundalpha="1" border="1" wordwrap="1" borderalpha="1"/>
+      <polystyle handcursor="1" mode="1" backgroundcolor="0x0eb7ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <polyhotspot id="Poly01" url="{node2}" title="" target="122.1/3.6/63.9" description="">
+        <polystring>-319.6/30.56|-76.38/23.74|-76.3/-55.94|-35.51/-71.34|-32.72/-70.74|-30.05/-70.48|-27.25/-70.28|-23.42/-70.13|-22.29/-70.37|-20.84/-72.62|-14.65/-72.81|-11.85/-71.84|-7.82/-71.9|-7.68/-71.56|-9.02/-71.42|-8.72/-71.02|-6.25/-70.32|-4.82/-70.44|-4.08/-69.59|-4.47/-68.96|-5/-68.59|-3.73/-68.13|-3.47/-67.83|-3.93/-67.47|-3.62/-66.84|-2.35/-66.54|-0.99/-66.66|-0.38/-67.31|-1.03/-67.73|-1/-67.99|-358.78/-68.1|-359.23/-68.36|-359.93/-68.87|-0.23/-69.44|-359.57/-70.43|-357.12/-70.65|-358/-70.88|-358.14/-71.25|-359.33/-71.66|-359.25/-72.45|-357.76/-72.65|-320.4/-63.75</polystring>
+      </polyhotspot>
+      <hotspot id="Point06" use3D="1" distance3D="1396.45" url="" title="Tagrov360" customimage="media/tagrov360.png" pan="-12.12" target="" skinid="ht_info" description="Я оказываю услуги по качественной профессиональной интерьерной фотосъемке квартир для объявлений о продаже и аренде.&#xa;1) Виртуальный 3д тур по жилой недвижимости (рум-тур) делает возможным удаленный показ квартир и загородных домов для риэлторов, а так же используются дизайнерами и компаниями занимающимися ремонтами квартир для презентации своей проделанной работы на объекте.&#xa;2) При заказе виртуального тура по квартире я предоставляю свой хостинг для хранения рум-тура по недвижимости бесплатно. &#xa;3) Стоимость виртуального 3D тура по недвижимости - от 5 000 рублей в зависимости от площади и количества комнат в квартире.&#xa;4) В стоимость создания виртуального тура по квартире входит глубокая ретушь и правильная цветокоррекция всех панорам проекта в каждом помещении. Панорамы снимаются на высококлассное профессиональное фото оборудование, что гарантирует высокое качество виртуального тура по Вашей квартире.&#xa;5) Некоторые площадки (такие как ЦИАН и Авито) не дают вставить в объявление непосредственно ссылку на виртуальный тур, но позволяют вставлять видео с YouTube с виртуального тура, которое я тоже изготавливаю. Ссылка на полный виртуальный тур по недвижимости вставляется в описании видео, так же указывается в объявлении, что есть 3д тур и по запросу высылается ссылкой.&#xa;Контактные данные: &#xa;тел (ватсапп): +7 (999) 794-34-41 Александр &#xa;инстаграмм: TagrovZAZI" customimagewidth="740" fov="29.68" tilt="-88.3" customimageheight="740"/>
+      <hotspot id="Point04" use3D="1" distance3D="331.472" url="tel:+7 (999) 793-34-41" title="позвонить владельцу недвижимости" customimage="media/icons8-громкость-звонка-96.png" pan="-11.8" target="_blank" skinid="ht_url" description="" customimagewidth="58" fov="10" tilt="-65.68" customimageheight="58"/>
+      <hotspot id="Point03" use3D="1" distance3D="325.756" url="Тут размещается любая информация о недижимости (наличие вайфая, стиральной машины и тд.)" title="Информация" customimage="media/icons8-добавить-контакт-в-компанию-96.png" pan="-101.31" target="_top" skinid="ht_info" description="Тут размещается любая информация о недвижимости (наличие вайфая, стиральной машины и тд.)" customimagewidth="57" fov="10" tilt="-65.52" customimageheight="57"/>
+      <hotspot id="Point01" use3D="1" distance3D="306.387" url="https://www.google.com/maps/@62.0263057,129.7103521,3a,75y,239.84h,95.53t/data=!3m6!1e1!3m4!1sFbdzUKiRGox2ekCK8VY85Q!2e0!7i16384!8i8192?hl=ru" title="Расположение на карте" customimage="media/icons8-путеводитель-96.png" pan="-190.01" target="_blank" skinid="ht_url" description="" customimagewidth="65" fov="12.11" tilt="-67.94" customimageheight="65"/>
+      <hotspot id="Point02" use3D="1" distance3D="337.187" url="https://tagrov360.rf.gd/" title="Ссылка на сайт недвижимости" customimage="media/icons8-интернет-96.png" pan="-282.92" target="_blank" skinid="ht_url" description="" customimagewidth="59" fov="10" tilt="-67.08" customimageheight="59"/>
+    </hotspots>
+    <media/>
+    <transition type="irisround" zoomafteroutfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" zoomfov="20" enabled="1" zoomoutpause="1" blendtime="1" softedge="0" blendcolor="0x000000" zoomin="0"/>
+    <autorotate nodedelay="0.00" noderandom="1" returntohorizon="1.000" enabled="1" useanimation="0" delay="3.00" speed="0.400" nodefilter="" startloaded="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertcontrol="1" speedwheel="1" simulatemass="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input width="3375" levelbiashidpi="1.000" levelingroll="0" overlap="1" height="3375" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="3375" height="3375" predecode="0" preload="0"/>
+      <level width="1687" height="1687" predecode="0" preload="0"/>
+      <level width="843" height="843" predecode="0" preload="0"/>
+      <level width="421" height="421" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-44.34" fovmode="0">
+      <start pan="0" fov="89" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="55.86" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" scaletofit="1" fov="100.68" tilt="90"/>
+    </view>
+    <userdata copyright="" source="" info="" tags="на выход" latitude="62.02622837" customnodeid="" title="" author="" nodeid="node7" datetime="" comment="" heading="-44.34" description="" longitude="129.70878361">
+      <mapcoords x="0.752563" y_floorplan_percent="46.5741" x_floorplan_percent="40.5926" y="-0.690765" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" width="180" height="20" enabled="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundalpha="1" border="1" wordwrap="1" borderalpha="1"/>
+      <polystyle handcursor="1" mode="1" backgroundcolor="0x0eb7ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <polyhotspot id="Poly01" url="{node4}" title="" target="54.3/-3.4/93.1" description="">
+        <polystring>-88.75/15.05|-112.55/13.22|-112.77/-37.52|-109.94/-38.33|-109.9/-38.24|-92.62/-41.31|-92.54/-41.39|-88.86/-41.69|-88.88/-41.12|-89.22/-41.07|-89.31/-35.09|-88.86/-32.48</polystring>
+      </polyhotspot>
+      <hotspot id="Point06" use3D="1" distance3D="1249.5" url="" title="Tagrov360" customimage="media/tagrov360.png" pan="-78.31" target="" skinid="ht_info" description="Я оказываю услуги по качественной профессиональной интерьерной фотосъемке квартир для объявлений о продаже и аренде.&#xa;1) Виртуальный 3д тур по жилой недвижимости (рум-тур) делает возможным удаленный показ квартир и загородных домов для риэлторов, а так же используются дизайнерами и компаниями занимающимися ремонтами квартир для презентации своей проделанной работы на объекте.&#xa;2) При заказе виртуального тура по квартире я предоставляю свой хостинг для хранения рум-тура по недвижимости бесплатно. &#xa;3) Стоимость виртуального 3D тура по недвижимости - от 5 000 рублей в зависимости от площади и количества комнат в квартире.&#xa;4) В стоимость создания виртуального тура по квартире входит глубокая ретушь и правильная цветокоррекция всех панорам проекта в каждом помещении. Панорамы снимаются на высококлассное профессиональное фото оборудование, что гарантирует высокое качество виртуального тура по Вашей квартире.&#xa;5) Некоторые площадки (такие как ЦИАН и Авито) не дают вставить в объявление непосредственно ссылку на виртуальный тур, но позволяют вставлять видео с YouTube с виртуального тура, которое я тоже изготавливаю. Ссылка на полный виртуальный тур по недвижимости вставляется в описании видео, так же указывается в объявлении, что есть 3д тур и по запросу высылается ссылкой.&#xa;Контактные данные: &#xa;тел (ватсапп): +7 (999) 794-34-41 Александр &#xa;инстаграмм: TagrovZAZI" customimagewidth="740" fov="32.99" tilt="-87.79" customimageheight="740"/>
+      <hotspot id="Point04" use3D="1" distance3D="331.472" url="tel:+7 (999) 793-34-41" title="позвонить владельцу недвижимости" customimage="media/icons8-громкость-звонка-96.png" pan="-79.25" target="_blank" skinid="ht_url" description="" customimagewidth="58" fov="10" tilt="-63.39" customimageheight="58"/>
+      <hotspot id="Point03" use3D="1" distance3D="325.756" url="Тут размещается любая информация о недижимости (наличие вайфая, стиральной машины и тд.)" title="Информация" customimage="media/icons8-добавить-контакт-в-компанию-96.png" pan="-163.69" target="_top" skinid="ht_info" description="Тут размещается любая информация о недвижимости (наличие вайфая, стиральной машины и тд.)" customimagewidth="57" fov="10" tilt="-66.3" customimageheight="57"/>
+      <hotspot id="Point01" use3D="1" distance3D="306.387" url="https://www.google.com/maps/@62.0263057,129.7103521,3a,75y,239.84h,95.53t/data=!3m6!1e1!3m4!1sFbdzUKiRGox2ekCK8VY85Q!2e0!7i16384!8i8192?hl=ru" title="Расположение на карте" customimage="media/icons8-путеводитель-96.png" pan="-260.63" target="_blank" skinid="ht_url" description="" customimagewidth="65" fov="12.11" tilt="-67.33" customimageheight="65"/>
+      <hotspot id="Point02" use3D="1" distance3D="337.187" url="https://tagrov360.rf.gd/" title="Ссылка на сайт недвижимости" customimage="media/icons8-интернет-96.png" pan="-351.98" target="_blank" skinid="ht_url" description="" customimagewidth="59" fov="10" tilt="-65.39" customimageheight="59"/>
+    </hotspots>
+    <media/>
+    <transition type="irisround" zoomafteroutfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" zoomfov="20" enabled="1" zoomoutpause="1" blendtime="1" softedge="0" blendcolor="0x000000" zoomin="0"/>
+    <autorotate nodedelay="0.00" noderandom="1" returntohorizon="1.000" enabled="1" useanimation="0" delay="3.00" speed="0.400" nodefilter="" startloaded="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertcontrol="1" speedwheel="1" simulatemass="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input width="3355" levelbiashidpi="1.000" levelingroll="0" overlap="1" height="3355" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbias="0.400">
+      <level width="3355" height="3355" predecode="0" preload="0"/>
+      <level width="1677" height="1677" predecode="0" preload="0"/>
+      <level width="838" height="838" predecode="0" preload="0"/>
+      <level width="419" height="419" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-44.34" fovmode="0">
+      <start pan="0" fov="89" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="55.86" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="270" scaletofit="1" fov="100.68" tilt="90"/>
+    </view>
+    <userdata copyright="" source="" info="" tags="на выход" latitude="62.02626998" customnodeid="" title="" author="" nodeid="node8" datetime="" comment="" heading="-44.34" description="" longitude="129.70874987">
+      <mapcoords x="1.5477" y_floorplan_percent="70.6481" x_floorplan_percent="83.4815" y="-1.04782" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" width="180" height="20" enabled="1" backgroundcolor="0xffffff" textalpha="1" textcolor="0x000000" bordercolor="0x000000" background="1" backgroundalpha="1" border="1" wordwrap="1" borderalpha="1"/>
+      <polystyle handcursor="1" mode="1" backgroundcolor="0x0eb7ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <polyhotspot id="Poly01" url="{node5}" title="" target="96.8/-8.9/93.1" description="">
+        <polystring>-149.96/28.71|-194.89/26.58|-194.98/-58.69|-156.73/-61.59|-156.56/-61.66|-150.16/-61.05</polystring>
+      </polyhotspot>
+      <hotspot id="Point06" use3D="1" distance3D="1209.08" url="" title="Tagrov360" customimage="media/tagrov360.png" pan="-167.21" target="" skinid="ht_info" description="Я оказываю услуги по качественной профессиональной интерьерной фотосъемке квартир для объявлений о продаже и аренде.&#xa;1) Виртуальный 3д тур по жилой недвижимости (рум-тур) делает возможным удаленный показ квартир и загородных домов для риэлторов, а так же используются дизайнерами и компаниями занимающимися ремонтами квартир для презентации своей проделанной работы на объекте.&#xa;2) При заказе виртуального тура по квартире я предоставляю свой хостинг для хранения рум-тура по недвижимости бесплатно. &#xa;3) Стоимость виртуального 3D тура по недвижимости - от 5 000 рублей в зависимости от площади и количества комнат в квартире.&#xa;4) В стоимость создания виртуального тура по квартире входит глубокая ретушь и правильная цветокоррекция всех панорам проекта в каждом помещении. Панорамы снимаются на высококлассное профессиональное фото оборудование, что гарантирует высокое качество виртуального тура по Вашей квартире.&#xa;5) Некоторые площадки (такие как ЦИАН и Авито) не дают вставить в объявление непосредственно ссылку на виртуальный тур, но позволяют вставлять видео с YouTube с виртуального тура, которое я тоже изготавливаю. Ссылка на полный виртуальный тур по недвижимости вставляется в описании видео, так же указывается в объявлении, что есть 3д тур и по запросу высылается ссылкой.&#xa;Контактные данные: &#xa;тел (ватсапп): +7 (999) 794-34-41 Александр &#xa;инстаграмм: TagrovZAZI" customimagewidth="740" fov="34.03" tilt="-89.03" customimageheight="740"/>
+      <hotspot id="Point04" use3D="1" distance3D="331.472" url="tel:+7 (999) 793-34-41" title="позвонить владельцу недвижимости" customimage="media/icons8-громкость-звонка-96.png" pan="-163.22" target="_blank" skinid="ht_url" description="" customimagewidth="58" fov="10" tilt="-64.98" customimageheight="58"/>
+      <hotspot id="Point03" use3D="1" distance3D="325.756" url="Тут размещается любая информация о недижимости (наличие вайфая, стиральной машины и тд.)" title="Информация" customimage="media/icons8-добавить-контакт-в-компанию-96.png" pan="-253.39" target="_top" skinid="ht_info" description="Тут размещается любая информация о недвижимости (наличие вайфая, стиральной машины и тд.)" customimagewidth="57" fov="10" tilt="-65.34" customimageheight="57"/>
+      <hotspot id="Point01" use3D="1" distance3D="306.387" url="https://www.google.com/maps/@62.0263057,129.7103521,3a,75y,239.84h,95.53t/data=!3m6!1e1!3m4!1sFbdzUKiRGox2ekCK8VY85Q!2e0!7i16384!8i8192?hl=ru" title="Расположение на карте" customimage="media/icons8-путеводитель-96.png" pan="-348.75" target="_blank" skinid="ht_url" description="" customimagewidth="65" fov="12.11" tilt="-65.87" customimageheight="65"/>
+      <hotspot id="Point02" use3D="1" distance3D="337.187" url="https://tagrov360.rf.gd/" title="Ссылка на сайт недвижимости" customimage="media/icons8-интернет-96.png" pan="-77.74" target="_blank" skinid="ht_url" description="" customimagewidth="59" fov="10" tilt="-65.28" customimageheight="59"/>
+    </hotspots>
+    <media/>
+    <transition type="irisround" zoomafteroutfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" zoomfov="20" enabled="1" zoomoutpause="1" blendtime="1" softedge="0" blendcolor="0x000000" zoomin="0"/>
+    <autorotate nodedelay="0.00" noderandom="1" returntohorizon="1.000" enabled="1" useanimation="0" delay="3.00" speed="0.400" nodefilter="" startloaded="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control invertcontrol="1" speedwheel="1" simulatemass="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" lockedwheel="0" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" source="" info="" tags="" latitude="" customnodeid="" title="" author="" nodeid="master" datetime="" comment="" heading="0" description="" longitude=""/>
+  </masternode>
+  <map transparent="0" id="FloorPlan01" type="file" width="1350" title="" height="1080" bgcolor="rgba(255, 255, 255, 1)" zoomlevels="1" floorplannorth="135" tileformat="png"/>
+</tour>
